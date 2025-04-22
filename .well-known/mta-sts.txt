@@ -1,7 +1,6 @@
 version: STSv1
 mode: enforce
 max_age: 2419200
-mx: mailsec.protonmail.ch
-mx: mail.protonmail.ch
-mx: mx2.simplelogin.co
+mx: mail.leiteritz.us
 mx: mx1.simplelogin.co
+mx: mx2.simplelogin.co
